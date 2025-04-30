@@ -1,0 +1,7 @@
+org = "rust-lang-nursery"
+name = "rust-cookbook"
+description = "https://rust-lang-nursery.github.io/rust-cookbook"
+bots = []
+
+[access.teams]
+cookbook = "write"
